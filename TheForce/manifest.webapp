@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "The force",
+  "description": "Unleash the Force!",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/pic.png",
+    "48": "/pic.png",
+    "128": "/pic.png"
+  },
+  "developer": {
+    "name": "Dino Memovic",
+    "url": "http://me.linkedin.com/in/dinomne"
+  }
+}

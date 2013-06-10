@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "Lockergnome",
+  "description": "Your new awesome Open Web App",
+  "launch_path": "/home.html",
+  "icons": {
+    "16": "/pic.png",
+    "48": "/pic.png",
+    "128": "/pic.png"
+  },
+  "developer": {
+    "name": "Your Name",
+    "url": "http://yourawesomeapp.com"
+  }
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>THE FORCE!</title>
+	</head>
+	<body>
+		<script>
+		window.addEventListener('deviceproximity', function(ev) {
+		 if (ev.value<10) {
+			navigator.vibrate(2500);
+			<img src="/darth.gif">;
+			}});
+		</script>
+	</body>
+</html>
